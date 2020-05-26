@@ -1,12 +1,12 @@
 import splash_screen
-#fhbvuhuhrhuhuhuh
+
 while 1:
     x = input("Who is your favourite superhero?")
     y = x;
     x = x.replace(" ", "")
     x = x.lower();
 
-    if x == "ironman" or x == "captainamerica":
+    if x == "ironman" or x == "captainamerica" or x == "thor":
         print("Atharva is " + y)
     elif x=="spiderman" or x == "doctorstrange" or x == "antman":
         print("Sachit is "+ y)
