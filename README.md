@@ -1,5 +1,15 @@
 # Download and Run the program on your local machine using PyCharm
 
+Linux users : 
+
+if you are running this program on linux, ensure you have python tkinter install already. Use below command to install tkinter
+
+sudo apt-get install python3-tk
+
+***
+
+
+
 Open PyCharm. Below screen should loads up
 
 
