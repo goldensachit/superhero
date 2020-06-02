@@ -2,6 +2,8 @@
 
 Open PyCharm. Below screen should loads up
 
+
+
 ![Open Screen](documentation/image/open-pycharm.JPG)
 
 Click on the GIT option shown in above. 
